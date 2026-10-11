@@ -4,8 +4,10 @@
 
 ## 下载
 
-- 安装包：**[youlong-sandbox-0.1.0-debug.apk](https://github.com/liu56646/youlong-sandbox/releases/latest/download/youlong-sandbox-0.1.0-debug.apk)**
-- 访客镜像 p11_arm64.zip 无需手动下载，App 会自动获取
+- **安装包（推荐，已内置国内加速）**：[youlong-sandbox-0.1.0-debug.apk](https://gh-proxy.org/https://github.com/liu56646/youlong-sandbox/releases/latest/download/youlong-sandbox-0.1.0-debug.apk)
+- 直连备用：[GitHub 直链](https://github.com/liu56646/youlong-sandbox/releases/latest/download/youlong-sandbox-0.1.0-debug.apk)
+
+访客镜像 p11_arm64.zip **无需手动下载**，App 会自动经 gh-proxy.org 加速获取。
 
 ## 使用
 
@@ -27,4 +29,4 @@
 
 - 纯软件模拟（TCG）：首次启动约 10–15 分钟，运行画面约 5 FPS
 - 目前仅提供 Android 11 访客镜像
-- 国内下载 GitHub 较慢时，可用应用内「解压镜像」本地导入
+- 请勿在运行期间把 App 切后台过久：部分机型会冻结进程导致访客暂停
